@@ -8,3 +8,5 @@ package use in this project
 nueral network
 <br/>
 45 cell input , 2 hidden layer = 8 cell , 6 cell for output
+<br/> 
+traning model before func bag_of_words
